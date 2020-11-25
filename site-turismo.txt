@@ -1,0 +1,16 @@
+[X]começar colocando o fundo do site verde
+[X]colocar o titulo (cor creme)
+[X]colocar imagens (deixar elas em preto e branco)
+[X]criar uma lista ao lado com outros pontos turisticos da cidade
+[X]colocar os tres principais pontos turisticos na tela de inicio
+[X]imbutir links nesses pontos turisticos sobre sites que detalham mais o assunto
+[X]falar um pouco sobre os pontos turisticos da cidade
+[X]fundo de onde fica as imagens branco 
+[X]fazer um titulo para cada lugar com letras em negrito
+[X]a lista com mais ponto turistico tem que ter letra pequena
+[X]titulo da outra lista tem que ser em negrito para dar uma destacada
+[X]fazer o fundo dela mei acinzetado para chamar a atenção 
+[X]colcoar em forto de lista os outros pontos turisticos
+[X] numerar a lista
+[X] colocar no final do site em letra pequena porem em negrito um pequeno roda pé
+[X] colcoar emoge
